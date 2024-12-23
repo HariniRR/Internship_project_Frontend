@@ -1,0 +1,51 @@
+.dashboard-container {
+  background-color: #530c5b; /* Light background color */
+  padding: 20px;
+}
+
+.student-dashboard {
+  background-color: rgb(117, 66, 5);
+  padding: 20px;
+}
+
+.faculty-dashboard {
+  background-color: rgb(57, 97, 4);
+  padding: 20px;
+}
+
+.professional-dashboard {
+  background-color: #0f035e;
+  padding: 20px;
+} 
+
+.placement-dashboard {
+   background-color: rgb(106, 5, 59);
+   padding: 20px;
+}
+
+.card-title {
+  font-size: 1.5em;
+  color: #2c3e50;
+}
+
+.card-text {
+  color: #34495e;
+}
+
+.btn-primary {
+  background-color: #3498db;
+  border: none;
+  transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #2980b9;
+}
+
+.dashboard-container .row > div,
+.student-dashboard .row > div,
+.placement-dashboard .row > div,
+.faculty-dashboard .row > div,
+.professional-dashboard .row > div {
+  margin-bottom: 20px;
+}

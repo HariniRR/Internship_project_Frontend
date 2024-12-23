@@ -1,0 +1,15 @@
+.form-blur {
+  background: transparent; 
+  backdrop-filter: blur(10px);          
+  border-radius: 10px;
+  padding: 2rem;
+} 
+.login-container {
+  background-image: url('./Assets/About-IQAC.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

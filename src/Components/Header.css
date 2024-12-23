@@ -1,0 +1,13 @@
+/* Header.css */
+.header {
+    padding: 10px;
+    background-color: #96084d; /* Example color for header */
+    color: rgb(247, 242, 242);
+    text-align: center;
+}
+
+.college-title {
+    font-size: 3em;
+    font-weight: bold;
+    margin: 0;
+}
