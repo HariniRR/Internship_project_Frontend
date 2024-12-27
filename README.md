@@ -45,9 +45,19 @@ You can log in with a username and password.
 
 
 #### Dashboard
+After Login, you can see multiple dashboards. You can choose an appropriate dashboard for uploading and maintaining your documents, such as
 
-![Dashboard](./project_outputs/dashboard.jpg)
+The dashboard for Professional Societies Activities under the Inatitutional Activities
 
+![societyactivity](https://github.com/user-attachments/assets/fbfb8f4b-5541-4906-840b-c74c8800aaa7)
 
+The dashboard for Department Activities
 
+![departmentactivities](https://github.com/user-attachments/assets/9a6dbbe9-9128-498c-8974-582895a5c38c)
+
+The dashboard for Student Activities
+
+![studentactivities](https://github.com/user-attachments/assets/90b261cf-73d2-43df-9813-09a430e0b921)
+
+After entering into the dashboards, you can see the various activities and each of them contain forms for data entries with a table that displays the entered data with accessable to edit them. For instance the form is
 
