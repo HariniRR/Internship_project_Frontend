@@ -1,1 +1,39 @@
-# Internship_project_Frontend
+# IQAC Monthly Report using MERN Stack
+
+The **"IQAC Monthly Report using MERN Stack"** is my internship project, is a web application designed to streamline activity management within an educational institution. It centralizes documentation for departmental activities, faculty initiatives, student participation, and institutional events. The platform allows users to efficiently manage and track various activities, including:
+- Awards and achievements
+- Club events
+- Co-curricular and extra-curricular activities
+- Lectures and course completions
+- Certifications
+- Internships
+- Industrial visits
+- Value-added courses
+
+Each section is equipped with a dedicated form to ensure accurate record-keeping and efficient management of all activities, contributing to improved reporting and data management for IQAC.
+
+This repository contains the frontend code for the IQAC Monthly Report project. The backend code for this project is hosted in a separate repository. You can find it here:
+[Backend Repository](https://github.com/HariniRR/Internship_project_Backend.git)
+
+---
+
+## Technologies Used
+- **JavaScript** is used extensively throughout the application, as it forms the backbone of the entire stack
+### Frontend
+- **React.js**: For building a dynamic and responsive user interface.
+- **Redux**: For state management and ensuring seamless data flow across the application.
+- **Bootstrap**: For styling and responsive design.
+
+### Backend
+- **Node.js**: To handle server-side operations and API endpoints.
+- **Express.js**: For building RESTful APIs and handling routing.
+
+### Database
+- **MongoDB**: A NoSQL database used to store and manage records for various activities.
+
+### Additional Tools
+- **Mongoose**: For database modeling and schema creation.
+- **Axios**: For making API requests.
+
+---
+
