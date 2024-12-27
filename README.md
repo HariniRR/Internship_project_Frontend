@@ -35,5 +35,14 @@ This repository contains the frontend code for the IQAC Monthly Report project. 
 - **Mongoose**: For database modeling and schema creation.
 - **Axios**: For making API requests.
 
----
+--
+Snapshots
+
+![login](D:\miniproject_docs\project_outputs\login.jpg)
+Login is available.You can login with username and password
+**Dashboards**
+![login](D:\miniproject_docs\project_outputs\login.jpg)
+![login](D:\miniproject_docs\project_outputs\login.jpg)
+
+
 
