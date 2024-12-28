@@ -1,4 +1,4 @@
-# IQAC Monthly Report using MERN Stack
+![image](https://github.com/user-attachments/assets/aadf1cac-b267-4e87-bd2a-a8d143a891cb)# IQAC Monthly Report using MERN Stack
 
 The **"IQAC Monthly Report using MERN Stack"** is my internship project, is a web application designed to streamline activity management within an educational institution. It centralizes documentation for departmental activities, faculty initiatives, student participation, and institutional events. The platform allows users to efficiently manage and track various activities, including:
 - Awards and achievements
@@ -60,11 +60,7 @@ The dashboard for Department Activities
 
 ![departmentactivities](https://github.com/user-attachments/assets/9a6dbbe9-9128-498c-8974-582895a5c38c)
 
-The dashboard for Student Activities
-
-![studentactivities](https://github.com/user-attachments/assets/90b261cf-73d2-43df-9813-09a430e0b921)
-
 After entering into the dashboards, you can see the various activities and each of them contain forms for data entries with a table that displays the entered data with accessable to edit them. For instance the Association Detais form is
 
-![associationdetailsform](https://github.com/user-attachments/assets/483873e7-263e-4dd6-aebf-927fcfa04493)
+![associationforms](https://github.com/user-attachments/assets/ecc472f9-e649-41ad-9279-7eaca392a309)
 
