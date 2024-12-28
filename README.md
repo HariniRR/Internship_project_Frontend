@@ -65,5 +65,6 @@ The dashboard for Student Activities
 ![studentactivities](https://github.com/user-attachments/assets/90b261cf-73d2-43df-9813-09a430e0b921)
 
 After entering into the dashboards, you can see the various activities and each of them contain forms for data entries with a table that displays the entered data with accessable to edit them. For instance the Association Detais form is
-![Screenshot (106)](https://github.com/user-attachments/assets/b6a06abb-a7bf-4d04-be23-dd712beea9ca)
+
+![associationdetailsform](https://github.com/user-attachments/assets/483873e7-263e-4dd6-aebf-927fcfa04493)
 
