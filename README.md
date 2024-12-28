@@ -15,6 +15,10 @@ Each section is equipped with a dedicated form to ensure accurate record-keeping
 This repository contains the frontend code for the IQAC Monthly Report project. The backend code for this project is hosted in a separate repository. You can find it here:
 [Backend Repository](https://github.com/HariniRR/Internship_project_Backend.git)
 
+This data management system allows users to log in, submit, update, and retrieve data via forms. The processed data is stored in a database and displayed for analysis and reporting.
+
+![usecase diagram](https://github.com/user-attachments/assets/1c67b8a7-264a-4ac9-8efb-a9519e8a4f75)
+
 ---
 
 ## Technologies Used
@@ -36,6 +40,7 @@ This repository contains the frontend code for the IQAC Monthly Report project. 
 - **Axios**: For making API requests.
 
 ---
+
 ### Snapshots
 
 #### Login
